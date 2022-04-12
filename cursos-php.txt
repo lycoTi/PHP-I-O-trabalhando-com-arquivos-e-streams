@@ -1,2 +1,2 @@
-Design Patterns em PHP: padrões comportamentais
 Design Patterns em PHP: padrões estruturais
+Design Patterns em PHP: padrões comportamentais
